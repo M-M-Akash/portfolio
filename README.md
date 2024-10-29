@@ -1,10 +1,10 @@
 # Machine Learning 
 
-#### Technical Skills: Python, C++
+#### Technical Skills: Python, C++, Azure, 
 
 ## Education							       		
-- M.S., High-Performance Computing	| University of Jyvaskyla at Jyvaskyla, Finland (_Present_)	 			        		
-- B.S., Physics                     | Khulna University at Khulna, Bangladesh (_May 2022_)
+- M.S., High-Performance Computing	| University of Jyvaskyla, Finland (_Present_)	 			        		
+- B.S., Physics                     | Khulna University, Bangladesh (_May 2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
