@@ -1,6 +1,6 @@
 # Machine Learning 
 
-#### Technical Skills: Python, C++, Azure, 
+#### Technical Skills: Python, C++, Azure
 
 ## Education							       		
 - M.S., High-Performance Computing	| University of Jyvaskyla, Finland (_Present_)	 			        		
